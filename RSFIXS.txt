@@ -1,0 +1,15 @@
+*
+*  patches for rsbug into ABASIC
+*
+       REF  RSTOP
+*
+       RORG
+       BL   @RSTOP            patch "D" command (RORG from linker)
+*
+       AORG >0400
+       BL   @RSTOP            patch powerup code and stack allocation
+       DATA >FE30
+       DATA >FFE0
+*
+       END
+*

@@ -1,0 +1,20 @@
+
+REF already defined
+Statement #87, Line #69, File:HDS1.168.RD158
+
+0 undefined symbol(s),
+1369 global symbol(s) used.
+Symbol listing:
+5306 A  FILIOO
+HDS1.168.FILE, Line #1792
+__HDS1.168.RDRST, Line #32
+__HDS1.168.INPUT, Line #553
+__HDS1.168.INPUT, Line #41
+__HDS1.168.FILE, Line #1901
+__HDS1.168.FILE, Line #1783
+__HDS1.168.FILE, Line #350
+__HDS1.168.TRACE, Line #220
+__HDS1.168.TRACE, Line #198
+
+End of assembly
+Statement #5232, Line #118, File:HDS1.168.NUD2-SRC
